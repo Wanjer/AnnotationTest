@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Wanjer.github.io/AnnotationTest/manifests/manifest.json",
     "label" : "東男連理緒"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Wanjer.github.io/AnnotationTest/manifests/new.json",
+    "label" : "東男連理緒"
   } ]
 }
